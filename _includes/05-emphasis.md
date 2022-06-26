@@ -1,1 +1,12 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# hello this is ahmad 
+##programming langues :
+- kotlin
+- java
+- **python**
+- _kotlin_
+- html,css
+## my favroit :
+- **r**
+- r
+- r
+## ________________________________
