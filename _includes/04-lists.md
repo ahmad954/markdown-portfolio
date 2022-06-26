@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+# list i love :
+-god
+-elrsol
+-mum
+- sleeping
+- coding
+- r
+-playing handball
+- being loved
