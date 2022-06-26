@@ -1,9 +1,9 @@
 # list i love :
--god
--elrsol
--mum
+- god
+- elrsol
+- mum
 - sleeping
 - coding
 - r
--playing handball
+- playing handball
 - being loved
